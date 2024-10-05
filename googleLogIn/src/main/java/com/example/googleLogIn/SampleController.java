@@ -16,3 +16,4 @@ public class SampleController {
         return oAuth2AuthenticationToken.getPrincipal().getAttributes();
     }
 }
+//ok
